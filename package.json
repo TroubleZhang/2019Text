@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/zhangyibing1/2019Text#readme",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "less": "^3.9.0"
   }
 }
